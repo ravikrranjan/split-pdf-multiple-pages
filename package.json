@@ -5,8 +5,11 @@
 	"type": "module",
 	"repository": "https://github.com/ravikrranjan/split-pdf-multiple-pages.git",
 	"author": "Ravi Ranjan <raviranjan1600@gmail.com>",
-	"license": "NONE",
+	"license": "UNLICENSED",
 	"dependencies": {
 		"pdf-lib": "^1.17.1"
+	},
+	"scripts": {
+		"start": "node index.mjs"
 	}
 }
