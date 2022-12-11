@@ -1,0 +1,12 @@
+{
+	"name": "split-pdf-multiple-pages",
+	"version": "1.0.0",
+	"main": "index.mjs",
+	"type": "module",
+	"repository": "https://github.com/ravikrranjan/split-pdf-multiple-pages.git",
+	"author": "Ravi Ranjan <raviranjan1600@gmail.com>",
+	"license": "NONE",
+	"dependencies": {
+		"pdf-lib": "^1.17.1"
+	}
+}
